@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+scipy
+dvc[azure,s3]
+fastapi
+uvicorn
+docker
+mlem
