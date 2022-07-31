@@ -1,0 +1,25 @@
+artifacts:
+  data:
+    hash: 45109f850511f9474665f2c26f4c79f3
+    size: 2470
+    uri: iris.csv
+object_type: data
+reader:
+  data_type:
+    columns:
+    - sepal length (cm)
+    - sepal width (cm)
+    - petal length (cm)
+    - petal width (cm)
+    dtypes:
+    - float64
+    - float64
+    - float64
+    - float64
+    index_cols: []
+    type: dataframe
+  format: csv
+  type: pandas
+requirements:
+- module: pandas
+  version: 1.4.3
