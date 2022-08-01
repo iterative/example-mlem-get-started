@@ -1,0 +1,11 @@
+app_name: example-mlem-get-started-app
+env_link:
+  link_type: env
+  object_type: link
+  path: staging
+model_link:
+  link_type: model
+  object_type: link
+  path: rf
+object_type: deployment
+type: heroku
