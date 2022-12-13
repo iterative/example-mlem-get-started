@@ -1,0 +1,4 @@
+object_type: builder
+package_name: example_mlem_get_started
+target: build/
+type: pip
