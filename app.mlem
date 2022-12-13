@@ -1,0 +1,3 @@
+app_name: example-mlem-get-started-app
+object_type: deployment
+type: heroku
