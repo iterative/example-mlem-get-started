@@ -2,6 +2,7 @@ artifacts:
   data:
     hash: 45109f850511f9474665f2c26f4c79f3
     size: 2470
+    type: dvc
     uri: iris.csv
 object_type: data
 reader:

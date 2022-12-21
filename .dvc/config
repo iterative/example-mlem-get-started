@@ -1,0 +1,4 @@
+[core]
+    remote = default
+['remote "default"']
+    url = https://examplemlem.blob.core.windows.net/example-mlem
